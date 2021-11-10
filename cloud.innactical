@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import gi
 import webview
 gi.require_version('Gtk', '3.0')
